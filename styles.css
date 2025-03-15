@@ -132,7 +132,7 @@ span{
 }
 
 .gallery-item:hover .gallery-item-info {
-    opacity: 1; /* Make visible on hover */
+    opacity: 1;
 }
 
 /* List items styling */
